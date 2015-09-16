@@ -1,5 +1,6 @@
 # JavaCard-AlgTest-Applet
-Automated testing tool and applet for algorithms supported by  all smart card with JavaCard platform.
+Automated testing tool for algorithms supported by all smart card with JavaCard platform.
+
 Detailed usage:
 
   1. Download prepared version (AlgTest_JavaCard/AlgTest_***.cap) or compile your own modification of AlgTest applet. In case of use of provided *.cap file, use version that is supported by your card or simply start with version converted with highest version of converter (e.g., AlgTest_v1.1_jc2.2.2.cap) and then use lower version if card refuses to accept this file.
@@ -15,3 +16,4 @@ Detailed usage:
 
 Note:
  "JCAlgTest_JavaCard"  directory is the whole JCIDE project. You can click http://www.javacardos.com/JCIDE/downloads/JCKit.zip to download and use it.
+  

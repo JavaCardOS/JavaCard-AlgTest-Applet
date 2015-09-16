@@ -1,0 +1,16 @@
+<JavaCardProject name="JCAlgTest">
+<USER>
+<PKG name="AlgTest" aid="6D 79 70 61 63 6B 61 67 31" major="1" minor="0">
+<APPLET aid="6D 79 70 61 63 30 30 30 31" instanceaid="" parameter="" authority="" privileges="" index="-13664" name="JCAlgTestApplet"/>
+<CLASS name="AlgSupportTest"/>
+<CLASS name="AlgKeyHarvest"/>
+<CLASS name="AlgPerformanceTest"/>
+<CLASS name="AlgStorageTest"/>
+<CLASS name="TestSettings"/>
+<CLASS name="JavaCardAES"/>
+<CLASS name="Consts"/>
+<CLASS name="JCConsts"/>
+</PKG>
+<Libs/>
+</USER>
+</JavaCardProject>
