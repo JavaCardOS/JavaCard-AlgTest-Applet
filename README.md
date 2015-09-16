@@ -9,7 +9,7 @@ Detailed usage:
 
   3. Run application AlgTestJClient.jar:  To run the project from the command line, go to the dist folder and type the following:
   "java -jar AlgTestJClient.jar"
-     - Choose the target reader for card with uploaded AlgTest applet and let it run. CSV file with values separated by the semicolon is created (such as AlgTest_ATR.csv).
+  Choose the target reader for card with uploaded AlgTest applet and let it run. CSV file with values separated by the semicolon is created (such as AlgTest_ATR.csv).
 
   4. You can visit  "http://javacardos.com/javacardforum/viewforum.php?f=30" to get more scripts and leave your comments and suggestions.
 
