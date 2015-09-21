@@ -15,5 +15,8 @@ Detailed usage:
   4. You can visit  "http://javacardos.com/javacardforum/viewforum.php?f=30" to get more scripts and leave your comments and suggestions.
 
 Note:
- "JCAlgTest_JavaCard"  directory is the whole JCIDE project. You can click http://www.javacardos.com/JCIDE/downloads/JCKit.zip to download and use it.
+
+1, This source code is freely and under the LGPL license.
+
+2,  "JCAlgTest_JavaCard"  directory is the whole JCIDE project. You can click http://www.javacardos.com/JCIDE/downloads/JCKit.zip to download and use it.
   
