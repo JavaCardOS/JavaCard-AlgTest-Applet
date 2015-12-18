@@ -4,7 +4,7 @@ Automated testing tool for algorithms supported by all smart card with JavaCard 
 Building
 ===
 
-Using [JCIDE](http://javacardos.com/javacardforum/viewtopic.php?f=26&t=43) open this project,  Click "Buid All Packages(F7)" to build the source code and click "Debug" or "Run" you can Debug/run this project using Java Card Simulator.
+Using [JCIDE](http://javacardos.com/javacardforum/viewtopic.php?f=26&t=43) open this project,  Click "Buid All Packages(F7)" to build the source code.
 
 License 
 =======
