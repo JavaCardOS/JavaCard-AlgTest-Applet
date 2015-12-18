@@ -25,7 +25,7 @@ Detailed usage
 
 Discussion
 ===
-Have doubts? You can visit [Click Here](http://javacardos.com/javacardforum/viewforum.php?f=35).
+Have doubts? You can [Click Here](http://javacardos.com/javacardforum/viewforum.php?f=35).
 
 Note
 ======
