@@ -22,11 +22,10 @@ Detailed usage
   "java -jar AlgTestJClient.jar"
   Choose the target reader for card with uploaded AlgTest applet and let it run. CSV file with values separated by the semicolon is created (such as AlgTest_ATR.csv).
 
-  4. You can visit  "http://javacardos.com/javacardforum/viewforum.php?f=30" to get more scripts and leave your comments and suggestions.
 
 Discussion
 ===
-Have doubts? You can visit [Here](http://javacardos.com/javacardforum/viewforum.php?f=35) to ask and discuss.
+Have doubts? You can visit [Here](http://javacardos.com/javacardforum/viewforum.php?f=35) to get more scripts and leave your comments and suggestions.
 
 Note
 ======
