@@ -4,7 +4,7 @@ Automated testing tool for algorithms supported by all smart card with JavaCard 
 Building
 ===
 
-Using [JCIDE](http://javacardos.com/javacardforum/viewtopic.php?f=26&t=43?ws=github&prj=JCAlgTest) open this project,  Click "Buid All Packages(F7)" to build the source code.
+Using [JCIDE](http://javacardos.com/javacardforum/viewtopic.php?f=26&t=43?ws=github&prj=AlgTest) open this project,  Click "Buid All Packages(F7)" to build the source code.
 
 License 
 =======
@@ -25,10 +25,10 @@ Detailed usage
 
 Discussion
 ===
-Have doubts? You can [Click Here](http://javacardos.com/javacardforum/viewforum.php?f=35?ws=github&prj=JCAlgTest).
+Have doubts? You can [Click Here](http://javacardos.com/javacardforum/viewforum.php?f=35?ws=github&prj=AlgTest).
 
 Note
 ======
 
-"JCAlgTest_JavaCard"  directory is the whole JCIDE project. You can click [Here](http://www.javacardos.com/JCIDE/downloads/JCKit.zip?ws=github&prj=JCAlgTest) to download and use it.
+"JCAlgTest_JavaCard"  directory is the whole JCIDE project. You can click [Here](http://www.javacardos.com/JCIDE/downloads/JCKit.zip?ws=github&prj=AlgTest) to download and use it.
   
